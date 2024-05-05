@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shankaracharyaTempleWebsite/static/css/main.ef06cfcd.css",
-    "main.js": "/shankaracharyaTempleWebsite/static/js/main.2c83d738.js",
+    "main.js": "/shankaracharyaTempleWebsite/static/js/main.73db3d2d.js",
     "static/media/templePhoto4.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto4.7af4ce2a183afb6410b5.jpg",
     "static/media/templePhoto1.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto1.73a1b6cc96cf094c87af.jpg",
     "static/media/templePhoto3.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto3.559a1472d65cfc220153.jpg",
@@ -14,10 +14,10 @@
     "static/media/mapIcon.png": "/shankaracharyaTempleWebsite/static/media/mapIcon.a317671e910e50ec6114.png",
     "index.html": "/shankaracharyaTempleWebsite/index.html",
     "main.ef06cfcd.css.map": "/shankaracharyaTempleWebsite/static/css/main.ef06cfcd.css.map",
-    "main.2c83d738.js.map": "/shankaracharyaTempleWebsite/static/js/main.2c83d738.js.map"
+    "main.73db3d2d.js.map": "/shankaracharyaTempleWebsite/static/js/main.73db3d2d.js.map"
   },
   "entrypoints": [
     "static/css/main.ef06cfcd.css",
-    "static/js/main.2c83d738.js"
+    "static/js/main.73db3d2d.js"
   ]
 }

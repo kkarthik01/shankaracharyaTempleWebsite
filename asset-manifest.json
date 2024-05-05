@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shankaracharyaTempleWebsite/static/css/main.ef06cfcd.css",
+    "main.js": "/shankaracharyaTempleWebsite/static/js/main.2c83d738.js",
+    "static/media/templePhoto4.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto4.7af4ce2a183afb6410b5.jpg",
+    "static/media/templePhoto1.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto1.73a1b6cc96cf094c87af.jpg",
+    "static/media/templePhoto3.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto3.559a1472d65cfc220153.jpg",
+    "static/media/templePhoto5.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto5.8eabd101ac2c5761ec3b.jpg",
+    "static/media/mailIcon.png": "/shankaracharyaTempleWebsite/static/media/mailIcon.14be3f94e9f121965dea.png",
+    "static/media/templePhoto2.jpg": "/shankaracharyaTempleWebsite/static/media/templePhoto2.acf13606a2a7793bed89.jpg",
+    "static/media/backgroundImage.jpg": "/shankaracharyaTempleWebsite/static/media/backgroundImage.0fa9bc9a862edd39e5fe.jpg",
+    "static/media/omLogo.jpg": "/shankaracharyaTempleWebsite/static/media/omLogo.b446a0dc46657353ad04.jpg",
+    "static/media/callIcon.png": "/shankaracharyaTempleWebsite/static/media/callIcon.40380148faa333e6b1f9.png",
+    "static/media/mapIcon.png": "/shankaracharyaTempleWebsite/static/media/mapIcon.a317671e910e50ec6114.png",
+    "index.html": "/shankaracharyaTempleWebsite/index.html",
+    "main.ef06cfcd.css.map": "/shankaracharyaTempleWebsite/static/css/main.ef06cfcd.css.map",
+    "main.2c83d738.js.map": "/shankaracharyaTempleWebsite/static/js/main.2c83d738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef06cfcd.css",
+    "static/js/main.2c83d738.js"
+  ]
+}

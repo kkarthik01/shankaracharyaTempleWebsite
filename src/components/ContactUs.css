@@ -1,0 +1,29 @@
+.contact-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: linear-gradient(to bottom, orange, white);
+}
+
+.contact-container-left {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-icon {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.contact-container-right {
+    width: 50%;
+    padding-right: 20px;
+}
